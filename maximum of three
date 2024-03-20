@@ -1,4 +1,5 @@
 #touchdown Jiwon321
+#정지원/202103177/컴퓨터공학부
 a=int(input())
 b=int(input())
 c=int(input())
